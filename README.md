@@ -16,7 +16,7 @@ This repository contains the basic templates for various operations like I/0, Br
 - Finding the type of a triangle given its sides
 
 ## Project
-[Project Specification](https://github.com/Anupznk/Assembly-Codes-CSE-316/blob/master/Sorting%20and%20Searching/CSE%20316%20Offline%201%20Description.pdf)
+[Project Specification](https://github.com/Anupznk/Assembly-Codes-CSE-316/blob/master/Sorting%20and%20Searching/CSE%20316%20Offline%201%20Description.pdf) <br>
 [Solution](https://github.com/Anupznk/Assembly-Codes-CSE-316/blob/master/Sorting%20and%20Searching/Insertion%20Sort%20and%20Binary%20Search.asm)
 - Insertion Sort
 - Binary Search
