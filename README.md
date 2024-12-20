@@ -1,4 +1,4 @@
-# Assembly-Codes-CSE-316
+# Assembly Codes
 
 This repository contains the basic templates for various operations like I/0, Branching, loop and Arrays. This can be a good starting point for practicing Assembly codes.
 
@@ -22,6 +22,4 @@ This repository contains the basic templates for various operations like I/0, Br
 - Binary Search
 
 ## Run Locally
-``` bash
-Just install the emulator given in the folder emu8086v408 SETUP on your windows machine
-```
+Install the emulator given in the folder emu8086v408 SETUP on your Windows machine.
