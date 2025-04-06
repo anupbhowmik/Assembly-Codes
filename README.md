@@ -22,4 +22,4 @@ This repository contains the basic templates for various operations like I/0, Br
 - Binary Search
 
 ## Run Locally
-Install the emulator given in the folder emu8086v408 SETUP on your Windows machine.
+Install the emulator given in the folder emu8086v408 SETUP on your Windows machine. Then use the GUI to load and run any assembly code (`.asm`)
